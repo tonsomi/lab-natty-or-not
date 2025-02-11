@@ -4,7 +4,7 @@
 Projeto Podscast por AI 
 
 ## 🤖 Tecnologias Utilizadas
-Chatgpt e NOtebookLM (Google)
+Chatgpt e NotebookLM (Google)
 
 ## 🧐 Processo de Criação
 Conteúdo criado por meio do Chatgpt e importado para NotenookLM. 
